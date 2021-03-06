@@ -1,6 +1,6 @@
 # story-porgress-bar
 
-look at this image the third bar has a little jurk need to fix it
+look at this image the third bar has a little jurk need to fix it/n
 
 ![](./src/assets/problem.gif)
 
