@@ -1,3 +1,3 @@
 # story-porgress-bar
 
-![](./src/assets/problem.gif)
+![](./src/assets/problem.mp4)
